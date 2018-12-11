@@ -1,5 +1,5 @@
 class Group {
-  constructor(group) {
+  constructor() {
     this.group = [];
   }
 
